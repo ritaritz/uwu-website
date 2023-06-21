@@ -1,0 +1,36 @@
+<html>
+<head>
+<style>
+h1 {
+  color:pink;
+  font-family: Times New Roman;
+  font-size: 400%;
+
+}
+
+p {
+  color: blue;
+  font-family: courier;
+  font-size: 200%;
+  border: 3px solid blue;
+  padding: 30px;
+  margin: 50px;
+  background-color: Yellow;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Good day! uWu</h1>
+<p> This web page contains all my personal information.</p>
+<p> My name is Rita Avila.</p>
+<p> I currenlty residing in San Mateo, Rizal.</p>
+<p> My favorite food is Bicol Express.</p>
+<p> I graduated in Marikina High School</p>
+<p> I like reading books.</p> 
+
+
+
+</body>
+</html>
